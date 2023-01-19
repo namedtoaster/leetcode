@@ -6,7 +6,7 @@ project(LeetCode
 	)
 
 add_executable(problem
-	string-to-integer.cpp
+	search-rotated-sorted-array.cpp
 	)
 
 set_property(TARGET problem PROPERTY CXX_STANDARD 17)
