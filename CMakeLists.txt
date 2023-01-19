@@ -6,7 +6,7 @@ project(LeetCode
 	)
 
 add_executable(problem
-	search-rotated-sorted-array.cpp
+	combination-sum.cpp
 	)
 
 set_property(TARGET problem PROPERTY CXX_STANDARD 17)
